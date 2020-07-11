@@ -1,22 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-# imports, globals and drawing
-# moving the paddles
-# moving the ball
-# keeping score
-
-
-# In[2]:
-
-
-pip install pygame
-
-
-# In[2]:
+# In[ ]:
 
 
 # imports
